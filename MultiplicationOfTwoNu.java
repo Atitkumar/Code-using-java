@@ -1,0 +1,9 @@
+//Java Program to Multiply two Numbers
+public class MultiplicationOfTwoNu {
+	public static void main(String[] args) {
+		int a = 4;
+		int b = 5;
+		int c = a * b;
+		System.out.println("Multiplication of "+a+ " * " +b+" = "+c);
+	}
+}
